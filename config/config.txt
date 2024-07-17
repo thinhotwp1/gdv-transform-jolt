@@ -1,0 +1,5 @@
+PATH_SPARTE=Sparte
+PATH_SPARTE_080=Feuer - Industrie
+PATH_BESTANDSDETEN=Bestandsdaten oder Produktinfo Investment
+PATH_VERTRAG=Vertrag
+PATH_PATNER=Partner

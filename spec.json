@@ -1,0 +1,520 @@
+[
+  {
+    "operation": "shift",
+    "spec": {
+      "0001": {
+        "1": {
+          "VU-Abrechnungsstelle": "0001.1.VU-Abrechnungsstelle",
+          "VGV": {
+            "Satzart 0210 140": "0001.1.VGV.Satzart 0210 140",
+            "Satzart 0220 140": "0001.1.VGV.Satzart 0220 140"
+          },
+          "Satzende": "0001.1.Satzende",
+          "Vorsatz, Adresssatz, Allgemeiner Vetragsteil": {
+            "Satzart 0001": "0001.1.Vorsatz, Adresssatz, Allgemeiner Vetragsteil.Satzart 0001",
+            "Satzart 0100": "0001.1.Vorsatz, Adresssatz, Allgemeiner Vetragsteil.Satzart 0100",
+            "Satzart 0200": "0001.1.Vorsatz, Adresssatz, Allgemeiner Vetragsteil.Satzart 0200"
+          },
+          "Schadeninformation": {
+            "Schadeninformationssatz Satzart 0500": "0001.1.Schadeninformation.Schadeninformationssatz Satzart 0500"
+          },
+          "Haftpflicht": {
+            "Satzart 0210 040": "0001.1.Haftpflicht.Satzart 0210 040",
+            "Satzart 0220 040": "0001.1.Haftpflicht.Satzart 0220 040"
+          },
+          "Leben": {
+            "Satzart 0220 010": "0001.1.Leben.Satzart 0220 010",
+            "Satzart 0210 010": "0001.1.Leben.Satzart 0210 010"
+          },
+          "Klauseln": {
+            "Klausel-Datensatz Satzart 0350": "0001.1.Klauseln.Klausel-Datensatz Satzart 0350"
+          },
+          "Schadenabrechnung": {
+            "Schadenabrechnungssatz Satzart 0550": "0001.1.Schadenabrechnung.Schadenabrechnungssatz Satzart 0550"
+          },
+          "Technische Versicherungen": {
+            "Satzart 0220": "0001.1.Technische Versicherungen.Satzart 0220",
+            "Satzart 0210": "0001.1.Technische Versicherungen.Satzart 0210"
+          },
+          "Art des Absenders": "0001.1.Art des Absenders",
+          "Art des Adressaten": "0001.1.Art des Adressaten",
+          "Glas": {
+            "Satzart 0220 110": "0001.1.Glas.Satzart 0220 110",
+            "Satzart 0210 110": "0001.1.Glas.Satzart 0210 110"
+          },
+          "Satzanfang": {
+            "Adressat": "0001.1.Satzanfang.Adressat",
+            "Geschäftsstelle/Vermittler": "0001.1.Satzanfang.Geschäftsstelle/Vermittler",
+            "VU-Nummer": "0001.1.Satzanfang.VU-Nummer",
+            "Erstellungs-Datum- Zeitraum vom- Zeitraum bis": "0001.1.Satzanfang.Erstellungs-Datum- Zeitraum vom- Zeitraum bis",
+            "Satzart": "0001.1.Satzanfang.Satzart",
+            "Absender": "0001.1.Satzanfang.Absender"
+          },
+          "Bestandsführende Geschäftsstelle": "0001.1.Bestandsführende Geschäftsstelle",
+          "Kraftfahrzeug": {
+            "Satzart 0210 050": "0001.1.Kraftfahrzeug.Satzart 0210 050",
+            "Satzart 0220 054": "0001.1.Kraftfahrzeug.Satzart 0220 054",
+            "Satzart 0220 059": "0001.1.Kraftfahrzeug.Satzart 0220 059",
+            "Satzart 0220 051": "0001.1.Kraftfahrzeug.Satzart 0220 051",
+            "Satzart 0220 053": "0001.1.Kraftfahrzeug.Satzart 0220 053",
+            "Satzart 0220 052": "0001.1.Kraftfahrzeug.Satzart 0220 052"
+          },
+          "Feuer-Industrie/Gewerbliche Sachversicherung": {
+            "Satzart 0220": "0001.1.Feuer-Industrie/Gewerbliche Sachversicherung.Satzart 0220",
+            "Satzart 0210": "0001.1.Feuer-Industrie/Gewerbliche Sachversicherung.Satzart 0210"
+          },
+          "Inkassoabrechnung": {
+            "Inkasso Abrechnungssatz Transport Satzart 0450": "0001.1.Inkassoabrechnung.Inkasso Abrechnungssatz Transport Satzart 0450"
+          },
+          "Kraftfahrzeug-Baustein": {
+            "Kfz-Baustein": "0001.1.Kraftfahrzeug-Baustein.Kfz-Baustein"
+          },
+          "VHV": {
+            "Satzart 0210 130": "0001.1.VHV.Satzart 0210 130",
+            "Satzart 0220 130": "0001.1.VHV.Satzart 0220 130"
+          },
+          "Kranken": {
+            "Satzart 0210 020": "0001.1.Kranken.Satzart 0210 020",
+            "Satzart 0220 020": "0001.1.Kranken.Satzart 0220 020"
+          },
+          "Nicht einzeln definierte Sparten": {
+            "Satzart 0220": "0001.1.Nicht einzeln definierte Sparten.Satzart 0220",
+            "Satzart 0210": "0001.1.Nicht einzeln definierte Sparten.Satzart 0210"
+          },
+          "VSV": {
+            "Satzart 0220 510": "0001.1.VSV.Satzart 0220 510",
+            "Satzart 0210 510": "0001.1.VSV.Satzart 0210 510"
+          },
+          "Inkasso": {
+            "Allgemeine Inkasso-Daten Satzart 0430": "0001.1.Inkasso.Allgemeine Inkasso-Daten Satzart 0430",
+            "Allgemeine Inkasso-Daten Satzart 0400": "0001.1.Inkasso.Allgemeine Inkasso-Daten Satzart 0400",
+            "Inkasso Teilsparte Satzart 0410": "0001.1.Inkasso.Inkasso Teilsparte Satzart 0410"
+          },
+          "Nachsatz": {
+            "Nachsatz Satzart 9999": "0001.1.Nachsatz.Nachsatz Satzart 9999"
+          },
+          "Transport": {
+            "Satzart 0260 Umsatzanmeldung": "0001.1.Transport.Satzart 0260 Umsatzanmeldung",
+            "Satzart 0250 Einzelanmeldung": "0001.1.Transport.Satzart 0250 Einzelanmeldung",
+            "Satzart 0220": "0001.1.Transport.Satzart 0220",
+            "Satzart 0210": "0001.1.Transport.Satzart 0210"
+          },
+          "Beteiligungsinformation": {
+            "Beteiligungs-Informationssatz Satzart 0300": "0001.1.Beteiligungsinformation.Beteiligungs-Informationssatz Satzart 0300"
+          },
+          "Unfall": {
+            "Satzart 0210 030": "0001.1.Unfall.Satzart 0210 030",
+            "Satzart 0220 030": "0001.1.Unfall.Satzart 0220 030"
+          },
+          "Rechtschutz": {
+            "Satzart 0210 070": "0001.1.Rechtschutz.Satzart 0210 070",
+            "Satzart 0220 070": "0001.1.Rechtschutz.Satzart 0220 070"
+          },
+          "Versicherungsteuerabrechnung": {
+            "Versicherungsteuerabrechnungssatz gemäß EG-Richtlinie Satzart 0420": "0001.1.Versicherungsteuerabrechnung.Versicherungsteuerabrechnungssatz gemäß EG-Richtlinie Satzart 0420"
+          }
+        },
+        "2": {
+          "VGV": {
+            "Satzart 0221 140": "0001.2.VGV.Satzart 0221 140",
+            "Satzart 0211 140": "0001.2.VGV.Satzart 0211 140"
+          },
+          "Investmentfonds": {
+            "Satzart 0220 550": "0001.2.Investmentfonds.Satzart 0220 550",
+            "Satzart 0293 550": "0001.2.Investmentfonds.Satzart 0293 550",
+            "Satzart 0292 550": "0001.2.Investmentfonds.Satzart 0292 550",
+            "Satzart 0270 550": "0001.2.Investmentfonds.Satzart 0270 550",
+            "Satzart 0280 550": "0001.2.Investmentfonds.Satzart 0280 550",
+            "Satzart 0294 550": "0001.2.Investmentfonds.Satzart 0294 550",
+            "Satzart 0295 550": "0001.2.Investmentfonds.Satzart 0295 550",
+            "Satzart 0291 550": "0001.2.Investmentfonds.Satzart 0291 550",
+            "Satzart 0210 550": "0001.2.Investmentfonds.Satzart 0210 550"
+          },
+          "Satzende": "0001.2.Satzende",
+          "Haftpflicht": {
+            "Satzart 0221 040": "0001.2.Haftpflicht.Satzart 0221 040",
+            "Satzart 0211 040": "0001.2.Haftpflicht.Satzart 0211 040"
+          },
+          "Leben": {
+            "Satzart 0211 010": "0001.2.Leben.Satzart 0211 010",
+            "Satzart 0221 010": "0001.2.Leben.Satzart 0221 010"
+          },
+          "Allgemeiner Vertragsteil - Antrag": {
+            "Satzart 0212": "0001.2.Allgemeiner Vertragsteil - Antrag.Satzart 0212"
+          },
+          "Technische Versicherungen": {
+            "Satzart 0221": "0001.2.Technische Versicherungen.Satzart 0221",
+            "Satzart 0211": "0001.2.Technische Versicherungen.Satzart 0211"
+          },
+          "Geschäftsvorfall - Vorsatz": {
+            "Satzart 0052": "0001.2.Geschäftsvorfall - Vorsatz.Satzart 0052"
+          },
+          "Vorversicherung": {
+            "Satzart 0362": "0001.2.Vorversicherung.Satzart 0362"
+          },
+          "Glas": {
+            "Satzart 0211 110": "0001.2.Glas.Satzart 0211 110",
+            "Satzart 0221 110": "0001.2.Glas.Satzart 0221 110"
+          },
+          "Satzanfang": {
+            "Adressat": "0001.2.Satzanfang.Adressat",
+            "Geschäftsstelle/Vermittler": "0001.2.Satzanfang.Geschäftsstelle/Vermittler",
+            "VU-Nummer": "0001.2.Satzanfang.VU-Nummer",
+            "Satzart": "0001.2.Satzanfang.Satzart",
+            "Absender": "0001.2.Satzanfang.Absender",
+            "Erstellungs-Datum, Zeitraum vom, Zeitraum bis": "0001.2.Satzanfang.Erstellungs-Datum, Zeitraum vom, Zeitraum bis"
+          },
+          "Beitrag - Versicherungsteuer": {
+            "Satzart 0382": "0001.2.Beitrag - Versicherungsteuer.Satzart 0382"
+          },
+          "Kraftfahrzeug": {
+            "Satzart 0221 052": "0001.2.Kraftfahrzeug.Satzart 0221 052",
+            "Satzart 0221 051": "0001.2.Kraftfahrzeug.Satzart 0221 051",
+            "Satzart 0211 050": "0001.2.Kraftfahrzeug.Satzart 0211 050",
+            "Satzart 0221 059": "0001.2.Kraftfahrzeug.Satzart 0221 059",
+            "Satzart 0221 055": "0001.2.Kraftfahrzeug.Satzart 0221 055",
+            "Satzart 0221 054": "0001.2.Kraftfahrzeug.Satzart 0221 054",
+            "Satzart 0221 053": "0001.2.Kraftfahrzeug.Satzart 0221 053"
+          },
+          "Feuer-Industrie/Gewerbliche Sachversicherung": {
+            "Satzart 0221": "0001.2.Feuer-Industrie/Gewerbliche Sachversicherung.Satzart 0221",
+            "Satzart 0211": "0001.2.Feuer-Industrie/Gewerbliche Sachversicherung.Satzart 0211"
+          },
+          "Geschäftsvorfall - Nachsatz": {
+            "Satzart 9952": "0001.2.Geschäftsvorfall - Nachsatz.Satzart 9952"
+          },
+          "VHV": {
+            "Satzart 0211 130": "0001.2.VHV.Satzart 0211 130",
+            "Satzart 0221 130": "0001.2.VHV.Satzart 0221 130"
+          },
+          "Antrag/Tarifierungsmerkmale": {
+            "Produktspezifische Antragsdaten 0372": "0001.2.Antrag/Tarifierungsmerkmale.Produktspezifische Antragsdaten 0372",
+            "Produktspezifische Stammdaten 0600": "0001.2.Antrag/Tarifierungsmerkmale.Produktspezifische Stammdaten 0600"
+          },
+          "Bausparen": {
+            "Satzart 0210 580": "0001.2.Bausparen.Satzart 0210 580",
+            "Satzart 0220 580": "0001.2.Bausparen.Satzart 0220 580"
+          },
+          "Vorläufige Deckung": {
+            "Satzart 0352": "0001.2.Vorläufige Deckung.Satzart 0352"
+          },
+          "Adresssatz": {
+            "Satzart 0102": "0001.2.Adresssatz.Satzart 0102"
+          },
+          "Textnachricht/Datei": {
+            "Satzart 9950": "0001.2.Textnachricht/Datei.Satzart 9950"
+          },
+          "Nicht einzeln definierte Sparten": {
+            "Satzart 0221": "0001.2.Nicht einzeln definierte Sparten.Satzart 0221",
+            "Satzart 0211": "0001.2.Nicht einzeln definierte Sparten.Satzart 0211"
+          },
+          "VSV": {
+            "Satzart 0221 510": "0001.2.VSV.Satzart 0221 510"
+          },
+          "Transport": {
+            "Satzart 0251 Einzelanmeldung": "0001.2.Transport.Satzart 0251 Einzelanmeldung",
+            "Satzart 0221": "0001.2.Transport.Satzart 0221",
+            "Satzart 0211": "0001.2.Transport.Satzart 0211"
+          },
+          "Unfall": {
+            "Satzart 0221 030": "0001.2.Unfall.Satzart 0221 030"
+          },
+          "Rechtschutz": {
+            "Satzart 0221 070": "0001.2.Rechtschutz.Satzart 0221 070"
+          }
+        },
+        "3": {
+          "Tierkranken": {
+            "Satzart 0220 684": "0001.3.Tierkranken.Satzart 0220 684",
+            "Satzart 0210 684": "0001.3.Tierkranken.Satzart 0210 684"
+          },
+          "KFZ - Wechselkennzeichen W-AKZ": {
+            "KFZ - Wechselkennzeichen W-AKZ": "0001.3.KFZ - Wechselkennzeichen W-AKZ.KFZ - Wechselkennzeichen W-AKZ"
+          },
+          "Satzende": "0001.3.Satzende",
+          "Baufinanzierung": {
+            "Satzart 0210 570": "0001.3.Baufinanzierung.Satzart 0210 570",
+            "Satzart 0220 570": "0001.3.Baufinanzierung.Satzart 0220 570"
+          },
+          "eVB-Nummer": {
+            "eVB-Nummer 0392": "0001.3.eVB-Nummer.eVB-Nummer 0392"
+          },
+          "Allgemeine Antragsdaten": {
+            "Allgemeine Antragsdaten 0202": "0001.3.Allgemeine Antragsdaten.Allgemeine Antragsdaten 0202"
+          },
+          "Kapitalanlage": {
+            "Satzart 0220 560": "0001.3.Kapitalanlage.Satzart 0220 560",
+            "Satzart 0210 560": "0001.3.Kapitalanlage.Satzart 0210 560"
+          },
+          "Leben/Rente-Leistungsarten": {
+            "Leben/Rente-Leistungsarten": "0001.3.Leben/Rente-Leistungsarten.Leben/Rente-Leistungsarten"
+          },
+          "Fondsdatensatz - Leben": {
+            "Fondsdatensatz - Leben 0230": "0001.3.Fondsdatensatz - Leben.Fondsdatensatz - Leben 0230"
+          },
+          "Begleitdokumente und Signaturen": {
+            "Begleitdokumente und Signaturen 0342": "0001.3.Begleitdokumente und Signaturen.Begleitdokumente und Signaturen 0342"
+          },
+          "Satzanfang": {
+            "Adressat": "0001.3.Satzanfang.Adressat",
+            "VU-Nummer": "0001.3.Satzanfang.VU-Nummer",
+            "Satzart": "0001.3.Satzanfang.Satzart",
+            "Absender": "0001.3.Satzanfang.Absender",
+            "Erstellungs-Datum, Zeitraum vom, Zeitraum bis": "0001.3.Satzanfang.Erstellungs-Datum, Zeitraum vom, Zeitraum bis",
+            "Geschäftsstelle / Vermittler": "0001.3.Satzanfang.Geschäftsstelle / Vermittler"
+          },
+          "MIME-Datei": {
+            "MIME-Datei 9951": "0001.3.MIME-Datei.MIME-Datei 9951"
+          },
+          "Unfall": {
+            "Unfall Leistungsarten 0230": "0001.3.Unfall.Unfall Leistungsarten 0230",
+            "Unfallspezifische Antragsdaten 0222": "0001.3.Unfall.Unfallspezifische Antragsdaten 0222"
+          },
+          "Rabatte und Zuschläge": {
+            "Rabatte und Zuschläge 0390": "0001.3.Rabatte und Zuschläge.Rabatte und Zuschläge 0390"
+          },
+          "Verbundene Gebäude - Versicherte Sachen und Kosten": {
+            "Verbundene Gebäude - Versicherte Sachen und Kosten": "0001.3.Verbundene Gebäude - Versicherte Sachen und Kosten.Verbundene Gebäude - Versicherte Sachen und Kosten"
+          }
+        }
+      },
+      "Bestandsdaten oder Produktinfo Investment": {
+        "Vertrag": {
+          "*": {
+            "0200": {
+              "1": {
+                "Abgangsdatum": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.0200.1.Abgangsdatum",
+                "Abgangsgrund": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.0200.1.Abgangsgrund",
+                "Änderungsgrund": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.0200.1.Änderungsgrund",
+                "Vertragsbeginn": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.0200.1.Vertragsbeginn",
+                "Personen-/Kundennummer des Versicherers": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.0200.1.Personen-/Kundennummer des Versicherers",
+                "Aufsichtsfreier Vertrag": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.0200.1.Aufsichtsfreier Vertrag",
+                "Änderungsdatum": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.0200.1.Änderungsdatum",
+                "Satzende": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.0200.1.Satzende",
+                "Erweiterungssatz vorhanden": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.0200.1.Erweiterungssatz vorhanden",
+                "Aufteilung Versicherungsteuer gemäß EG-Richtlinien": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.0200.1.Aufteilung Versicherungsteuer gemäß EG-Richtlinien",
+                "Währungsschlüssel": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.0200.1.Währungsschlüssel",
+                "Kennzeichen Vers.-Steuer frei": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.0200.1.Kennzeichen Vers.-Steuer frei",
+                "Antragsdatum": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.0200.1.Antragsdatum",
+                "Spezifikation der Referenz-Versicherungsscheinnummer": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.0200.1.Spezifikation der Referenz-Versicherungsscheinnummer",
+                "A, F, B": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.0200.1.A, F, B",
+                "Referenz-Versicherungsscheinnummer": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.0200.1.Referenz-Versicherungsscheinnummer",
+                "Satzanfang": {
+                  "Folgenummer": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.0200.1.Satzanfang.Folgenummer",
+                  "Versicherungsschein-Nummer": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.0200.1.Satzanfang.Versicherungsschein-Nummer",
+                  "VU-Nummer": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.0200.1.Satzanfang.VU-Nummer",
+                  "Sparte": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.0200.1.Satzanfang.Sparte",
+                  "Satzart": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.0200.1.Satzanfang.Satzart",
+                  "Geschäftsstelle / Vermittler": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.0200.1.Satzanfang.Geschäftsstelle / Vermittler",
+                  "Bündelungskennzeichen": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.0200.1.Satzanfang.Bündelungskennzeichen"
+                },
+                "Mehrzweckfeld": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.0200.1.Mehrzweckfeld",
+                "Einzahlung / Ausschüttung": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.0200.1.Einzahlung / Ausschüttung",
+                "Personen-/Kundennummer des Vermittlers": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.0200.1.Personen-/Kundennummer des Vermittlers",
+                "Vertragsablauf": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.0200.1.Vertragsablauf",
+                "Währung der Dokumente für VN": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.0200.1.Währung der Dokumente für VN",
+                "Anteil in %": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.0200.1.Anteil in %",
+                "Gesamtbeitrag (Netto) in Währungseinheiten": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.0200.1.Gesamtbeitrag (Netto) in Währungseinheiten",
+                "Restlaufzeit des Vertrages": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.0200.1.Restlaufzeit des Vertrages",
+                "Laufzeitrabatt in %": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.0200.1.Laufzeitrabatt in %",
+                "Inkassoart": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.0200.1.Inkassoart",
+                "Auftrags-Nr. des Vermittlers": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.0200.1.Auftrags-Nr. des Vermittlers",
+                "Ordnungsbegriff": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.0200.1.Ordnungsbegriff",
+                "Zahlungsweise": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.0200.1.Zahlungsweise",
+                "Hauptfälligkeit": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.0200.1.Hauptfälligkeit",
+                "Vertragsstatus": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.0200.1.Vertragsstatus"
+              }
+            },
+            "Sparte": {
+              "*": {
+                "Leben 010": {
+                  "0211": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.0211",
+                  "0210": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.0210",
+                  "0350": {},
+                  "Versicherte Person": {
+                    "*": {
+                      "0220": {
+                        "1": {
+                          "Schutzbrief /Verkehrsservice": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.0220.1.Schutzbrief /Verkehrsservice",
+                          "KH-RGJ": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.0220.1.KH-RGJ",
+                          "KH-Zuschläge in %": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.0220.1.KH-Zuschläge in %",
+                          "Flottenrabatt in %": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.0220.1.Flottenrabatt in %",
+                          "KH-Zuschläge in Währungseinheiten": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.0220.1.KH-Zuschläge in Währungseinheiten",
+                          "Satzende": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.0220.1.Satzende",
+                          "KH-Deckungssummen": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.0220.1.KH-Deckungssummen",
+                          "KH-Beginn": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.0220.1.KH-Beginn",
+                          "KH-Abschläge in %": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.0220.1.KH-Abschläge in %",
+                          "KH-Tarifgruppe": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.0220.1.KH-Tarifgruppe",
+                          "Frei vereinbarte Selbstbeteiligung in Währungseinheiten für KH": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.0220.1.Frei vereinbarte Selbstbeteiligung in Währungseinheiten für KH",
+                          "KH-Ausschluß": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.0220.1.KH-Ausschluß",
+                          "KH-Änderungsdatum": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.0220.1.KH-Änderungsdatum",
+                          "Satzanfang": {
+                            "Folgenummer": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.0220.1.Satzanfang.Folgenummer",
+                            "Versicherungsschein-Nummer": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.0220.1.Satzanfang.Versicherungsschein-Nummer",
+                            "VU-Nummer": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.0220.1.Satzanfang.VU-Nummer",
+                            "Sparte": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.0220.1.Satzanfang.Sparte",
+                            "Satzart": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.0220.1.Satzanfang.Satzart",
+                            "Geschäftsstelle / Vermittler": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.0220.1.Satzanfang.Geschäftsstelle / Vermittler",
+                            "Bündelungskennzeichen": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.0220.1.Satzanfang.Bündelungskennzeichen"
+                          },
+                          "KH-Abschläge in Währungseinheiten": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.0220.1.KH-Abschläge in Währungseinheiten",
+                          "Kennzeichen für abweichende Provision": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.0220.1.Kennzeichen für abweichende Provision",
+                          "KH-Beitrag in Währungseinheiten": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.0220.1.KH-Beitrag in Währungseinheiten",
+                          "Provision": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.0220.1.Provision",
+                          "Referenznummer": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.0220.1.Referenznummer",
+                          "Tyklasse KH": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.0220.1.Tyklasse KH",
+                          "KH-SF/S-Klasse": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.0220.1.KH-SF/S-Klasse",
+                          "Lfd. Nummer": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.0220.1.Lfd. Nummer",
+                          "Tarif": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.0220.1.Tarif",
+                          "Gültige AKB": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.0220.1.Gültige AKB",
+                          "Tarifbeitrag 100 % für Kraftfahrt-Haftpflicht in Währungseinheiten": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.0220.1.Tarifbeitrag 100 % für Kraftfahrt-Haftpflicht in Währungseinheiten",
+                          "KH Deckungsart": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.0220.1.KH Deckungsart",
+                          "KH-Schäden aus Rückstufung": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.0220.1.KH-Schäden aus Rückstufung",
+                          "KH-Beitragssätze": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.0220.1.KH-Beitragssätze",
+                          "Personennummer / lfd. Nummer": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.0220.1.Personennummer / lfd. Nummer"
+                        }
+                      },
+                      "0350": {},
+                      "0390": {},
+                      "Spartenspezifischer Teil": {
+                        "Kapitallebens-/Risikovers. - Wagnisart 1 / 3": {
+                          "*": {
+                            "0225": {},
+                            "0220": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.Spartenspezifischer Teil.Kapitallebens-/Risikovers. - Wagnisart 1 / 3.*.0220",
+                            "0221": {
+                              "1": {
+                                "Referenznummer": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.Spartenspezifischer Teil.Kapitallebens-/Risikovers. - Wagnisart 1 / 3.*.0221.1.Referenznummer",
+                                "Frei vereinbarte Selbstbeteiligung in Währungseinheiten für KH": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.Spartenspezifischer Teil.Kapitallebens-/Risikovers. - Wagnisart 1 / 3.*.0221.1.Frei vereinbarte Selbstbeteiligung in Währungseinheiten für KH",
+                                "Tarifbeitrag 100 % für Kraftfahrt-Haftpflicht in Währungseinheiten": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.Spartenspezifischer Teil.Kapitallebens-/Risikovers. - Wagnisart 1 / 3.*.0221.1.Tarifbeitrag 100 % für Kraftfahrt-Haftpflicht in Währungseinheiten",
+                                "KH-Deckungssummen in Währungseinheiten": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.Spartenspezifischer Teil.Kapitallebens-/Risikovers. - Wagnisart 1 / 3.*.0221.1.KH-Deckungssummen in Währungseinheiten",
+                                "KH-Zuschläge in Währungseinheiten": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.Spartenspezifischer Teil.Kapitallebens-/Risikovers. - Wagnisart 1 / 3.*.0221.1.KH-Zuschläge in Währungseinheiten",
+                                "Satzanfang": {
+                                  "Folgenummer": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.Spartenspezifischer Teil.Kapitallebens-/Risikovers. - Wagnisart 1 / 3.*.0221.1.Satzanfang.Folgenummer",
+                                  "Versicherungsschein-Nummer": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.Spartenspezifischer Teil.Kapitallebens-/Risikovers. - Wagnisart 1 / 3.*.0221.1.Satzanfang.Versicherungsschein-Nummer",
+                                  "VU-Nummer": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.Spartenspezifischer Teil.Kapitallebens-/Risikovers. - Wagnisart 1 / 3.*.0221.1.Satzanfang.VU-Nummer",
+                                  "Sparte": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.Spartenspezifischer Teil.Kapitallebens-/Risikovers. - Wagnisart 1 / 3.*.0221.1.Satzanfang.Sparte",
+                                  "Satzart": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.Spartenspezifischer Teil.Kapitallebens-/Risikovers. - Wagnisart 1 / 3.*.0221.1.Satzanfang.Satzart",
+                                  "Geschäftsstelle / Vermittler": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.Spartenspezifischer Teil.Kapitallebens-/Risikovers. - Wagnisart 1 / 3.*.0221.1.Satzanfang.Geschäftsstelle / Vermittler",
+                                  "Bündelungskennzeichen": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.Spartenspezifischer Teil.Kapitallebens-/Risikovers. - Wagnisart 1 / 3.*.0221.1.Satzanfang.Bündelungskennzeichen"
+                                },
+                                "Satzende": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.Spartenspezifischer Teil.Kapitallebens-/Risikovers. - Wagnisart 1 / 3.*.0221.1.Satzende",
+                                "Personennummer / lfd. Nummer": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.Spartenspezifischer Teil.Kapitallebens-/Risikovers. - Wagnisart 1 / 3.*.0221.1.Personennummer / lfd. Nummer",
+                                "KH-Abschläge in Währungseinheiten": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.Spartenspezifischer Teil.Kapitallebens-/Risikovers. - Wagnisart 1 / 3.*.0221.1.KH-Abschläge in Währungseinheiten",
+                                "Lfd. Nummer": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.Spartenspezifischer Teil.Kapitallebens-/Risikovers. - Wagnisart 1 / 3.*.0221.1.Lfd. Nummer",
+                                "KH-Beitrag in Währungseinheiten": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.Spartenspezifischer Teil.Kapitallebens-/Risikovers. - Wagnisart 1 / 3.*.0221.1.KH-Beitrag in Währungseinheiten"
+                              }
+                            },
+                            "0350": {},
+                            "0390": {}
+                          }
+                        },
+                        "Unfall - Wagnisart 6": {
+                          "*": {
+                            "0225": {},
+                            "0220": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.Spartenspezifischer Teil.Unfall - Wagnisart 6.*.0220",
+                            "0221": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.Spartenspezifischer Teil.Unfall - Wagnisart 6.*.0221",
+                            "0350": {},
+                            "0390": {}
+                          }
+                        },
+                        "Kapital-/Fondsgebundene LV - Wagnisart 7": {
+                          "*": {
+                            "0225": {},
+                            "0220": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.Spartenspezifischer Teil.Kapital-/Fondsgebundene LV - Wagnisart 7.*.0220",
+                            "0221": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.Spartenspezifischer Teil.Kapital-/Fondsgebundene LV - Wagnisart 7.*.0221",
+                            "0350": {},
+                            "0230": {},
+                            "0390": {}
+                          }
+                        },
+                        "Berufsunfähigkeit - Wagnisart 4 / 8": {
+                          "*": {
+                            "0225": {},
+                            "0220": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.Spartenspezifischer Teil.Berufsunfähigkeit - Wagnisart 4 / 8.*.0220",
+                            "0221": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.Spartenspezifischer Teil.Berufsunfähigkeit - Wagnisart 4 / 8.*.0221",
+                            "0350": {},
+                            "0390": {}
+                          }
+                        },
+                        "Rentenversicherung -  Wagnisart 2": {
+                          "*": {
+                            "0225": {},
+                            "0220": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.Spartenspezifischer Teil.Rentenversicherung -  Wagnisart 2.*.0220",
+                            "0221": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.Spartenspezifischer Teil.Rentenversicherung -  Wagnisart 2.*.0221",
+                            "0350": {},
+                            "0390": {}
+                          }
+                        },
+                        "Risikozusatz - Wagnisart 5": {
+                          "*": {
+                            "0225": {},
+                            "0220": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.Spartenspezifischer Teil.Risikozusatz - Wagnisart 5.*.0220",
+                            "0221": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.Spartenspezifischer Teil.Risikozusatz - Wagnisart 5.*.0221",
+                            "0350": {},
+                            "0390": {}
+                          }
+                        },
+                        "Fondsgebundene Rentenversicherung - Wagnisart 9": {
+                          "*": {
+                            "0225": {},
+                            "0220": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Sparte.*.Leben 010.Versicherte Person.*.Spartenspezifischer Teil.Fondsgebundene Rentenversicherung - Wagnisart 9.*.0220",
+                            "0350": {},
+                            "0230": {},
+                            "0390": {}
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "0390": {}
+                }
+              }
+            },
+            "0342": {},
+            "0350": {},
+            "0390": {},
+            "Partner": {
+              "*": {
+                "0100": {
+                  "1": {
+                    "Adresskennzeichen": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Partner.*.0100.1.Adresskennzeichen",
+                    "Postfach": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Partner.*.0100.1.Postfach",
+                    "Staatsangehörigkeit": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Partner.*.0100.1.Staatsangehörigkeit",
+                    "Zielgruppenschlüssel": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Partner.*.0100.1.Zielgruppenschlüssel",
+                    "Postleitzahl": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Partner.*.0100.1.Postleitzahl",
+                    "Länderkennzeichen": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Partner.*.0100.1.Länderkennzeichen",
+                    "Geburtsdatum": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Partner.*.0100.1.Geburtsdatum",
+                    "Aufsichtsfreier Versicherungsnehmer (Großrisiken)": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Partner.*.0100.1.Aufsichtsfreier Versicherungsnehmer (Großrisiken)",
+                    "Satzende": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Partner.*.0100.1.Satzende",
+                    "postalisches Kennzeichen": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Partner.*.0100.1.postalisches Kennzeichen",
+                    "Straße": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Partner.*.0100.1.Straße",
+                    "Ort": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Partner.*.0100.1.Ort",
+                    "Anredeschlüssel": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Partner.*.0100.1.Anredeschlüssel",
+                    "Satzanfang": {
+                      "Folgenummer": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Partner.*.0100.1.Satzanfang.Folgenummer",
+                      "Versicherungsschein-Nummer": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Partner.*.0100.1.Satzanfang.Versicherungsschein-Nummer",
+                      "VU-Nummer": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Partner.*.0100.1.Satzanfang.VU-Nummer",
+                      "Sparte": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Partner.*.0100.1.Satzanfang.Sparte",
+                      "Satzart": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Partner.*.0100.1.Satzanfang.Satzart",
+                      "Geschäftsstelle / Vermittler": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Partner.*.0100.1.Satzanfang.Geschäftsstelle / Vermittler",
+                      "Bündelungskennzeichen": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Partner.*.0100.1.Satzanfang.Bündelungskennzeichen"
+                    },
+                    "Titel": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Partner.*.0100.1.Titel",
+                    "Aktenzeichen des Sicherungsgläubigers": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Partner.*.0100.1.Aktenzeichen des Sicherungsgläubigers",
+                    "Geschlecht": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Partner.*.0100.1.Geschlecht",
+                    "Name 3": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Partner.*.0100.1.Name 3",
+                    "Name 2": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Partner.*.0100.1.Name 2",
+                    "Name 1": "Bestandsdaten oder Produktinfo Investment.Vertrag.*.Partner.*.0100.1.Name 1"
+                  }
+                },
+                "0342": {},
+                "0350": {},
+                "0390": {}
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,44 @@
+Input:
+{
+  "customer": "Marko",
+  "place": "Germany",
+  "age": 30
+}
+
+
+Spec.json:
+[
+  {
+    "operation": "shift",
+    "spec": {
+      "customer": "partner",
+      "place": "address"
+    }
+  },
+  {
+    "operation": "default",
+    "spec": {
+      "country": "unknown"
+    }
+  },
+  {
+    "operation": "remove",
+    "spec": {
+      "age": ""
+    }
+  },
+  {
+    "operation": "modify-overwrite-beta",
+    "spec": {
+      "partner": "=toUpperCase"
+    }
+  }
+]
+
+
+Result:
+{
+  "partner": "MARKO",
+  "address": "Germany",
+  "country": "unknown"
+}

@@ -1,0 +1,4 @@
+2024-07-11 21:48:02.208 INFO  flc.marko.gdv.Main - ==================| GDV to JSON Converter started |==================
+2024-07-11 21:48:10.533 INFO  flc.marko.gdv.Main - Metadata imported successfully from E:\GDV\mvs.gdv-2-json\20231113_20231113132945.xml
+2024-07-11 21:48:22.473 INFO  flc.marko.gdv.Main - GDV data converted to JSON successfully: E:\GDV\mvs.gdv-2-json\bestand_muster.gdv.txt
+2024-07-11 21:48:24.941 INFO  flc.marko.gdv.Main - JSON saved to file: C:\Users\pc\Documents\bestand_muster.json

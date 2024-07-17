@@ -1,0 +1,515 @@
+{
+  "0001":  {
+    "1": {
+      "Satzanfang": {
+        "Satzart": 5,
+        "VU-Nummer": 10,
+        "Absender": 40,
+        "Adressat": 70,
+        "Erstellungs-Datum- Zeitraum vom- Zeitraum bis": 86,
+        "Geschäftsstelle/Vermittler": 96
+      },
+      "Vorsatz, Adresssatz, Allgemeiner Vetragsteil": {
+        "Satzart 0001": 99,
+        "Satzart 0100": 102,
+        "Satzart 0200": 105
+      },
+      "Kraftfahrzeug": {
+        "Satzart 0210 050": 108,
+        "Satzart 0220 051": 111,
+        "Satzart 0220 052": 114,
+        "Satzart 0220 053": 117,
+        "Satzart 0220 054": 120,
+        "Satzart 0220 059": 123
+      },
+      "Haftpflicht": {
+        "Satzart 0210 040": 126,
+        "Satzart 0220 040": 129
+      },
+      "Unfall": {
+        "Satzart 0210 030": 132,
+        "Satzart 0220 030": 135
+      },
+      "Leben": {
+        "Satzart 0210 010": 138,
+        "Satzart 0220 010": 141
+      },
+      "VHV": {
+        "Satzart 0210 130": 144,
+        "Satzart 0220 130": 147
+      },
+      "Glas": {
+        "Satzart 0210 110": 150,
+        "Satzart 0220 110": 153
+      },
+      "VGV": {
+        "Satzart 0210 140": 156,
+        "Satzart 0220 140": 159
+      },
+      "Kranken": {
+        "Satzart 0210 020": 162,
+        "Satzart 0220 020": 165
+      },
+      "Rechtschutz": {
+        "Satzart 0210 070": 168,
+        "Satzart 0220 070": 171
+      },
+      "Feuer-Industrie/Gewerbliche Sachversicherung": {
+        "Satzart 0210": 174,
+        "Satzart 0220": 177
+      },
+      "VSV": {
+        "Satzart 0210 510": 180,
+        "Satzart 0220 510": 183
+      },
+      "Technische Versicherungen": {
+        "Satzart 0210": 186,
+        "Satzart 0220": 189
+      },
+      "Transport": {
+        "Satzart 0210": 192,
+        "Satzart 0220": 195,
+        "Satzart 0250 Einzelanmeldung": 198,
+        "Satzart 0260 Umsatzanmeldung": 201
+      },
+      "Nicht einzeln definierte Sparten": {
+        "Satzart 0210": 204,
+        "Satzart 0220": 207
+      },
+      "Kraftfahrzeug-Baustein": {
+        "Kfz-Baustein": 210
+      },
+      "Beteiligungsinformation": {
+        "Beteiligungs-Informationssatz Satzart 0300": 213
+      },
+      "Inkasso": {
+        "Allgemeine Inkasso-Daten Satzart 0400": 216,
+        "Inkasso Teilsparte Satzart 0410": 219,
+        "Allgemeine Inkasso-Daten Satzart 0430": 222
+      },
+      "Schadeninformation": {
+        "Schadeninformationssatz Satzart 0500": 225
+      },
+      "Nachsatz": {
+        "Nachsatz Satzart 9999": 228
+      },
+      "Versicherungsteuerabrechnung": {
+        "Versicherungsteuerabrechnungssatz gemäß EG-Richtlinie Satzart 0420": 231
+      },
+      "Inkassoabrechnung": {
+        "Inkasso Abrechnungssatz Transport Satzart 0450": 234
+      },
+      "Schadenabrechnung": {
+        "Schadenabrechnungssatz Satzart 0550": 237
+      },
+      "Art des Absenders": 238,
+      "Art des Adressaten": 239,
+      "VU-Abrechnungsstelle": 241,
+      "Bestandsführende Geschäftsstelle": 243,
+      "Klauseln": {
+        "Klausel-Datensatz Satzart 0350": 246
+      },
+      "Satzende": 257
+    },
+    "2": {
+      "Satzanfang": {
+        "Satzart": 5,
+        "VU-Nummer": 10,
+        "Absender": 40,
+        "Adressat": 70,
+        "Erstellungs-Datum, Zeitraum vom, Zeitraum bis": 86,
+        "Geschäftsstelle/Vermittler": 96
+      },
+      "Kraftfahrzeug": {
+        "Satzart 0211 050": 99,
+        "Satzart 0221 051": 102,
+        "Satzart 0221 052": 105,
+        "Satzart 0221 053": 108,
+        "Satzart 0221 054": 111,
+        "Satzart 0221 059": 114,
+        "Satzart 0221 055": 117
+      },
+      "Haftpflicht": {
+        "Satzart 0211 040": 120,
+        "Satzart 0221 040": 123
+      },
+      "Unfall": {
+        "Satzart 0221 030": 126
+      },
+      "Leben": {
+        "Satzart 0211 010": 129,
+        "Satzart 0221 010": 132
+      },
+      "VHV": {
+        "Satzart 0211 130": 135,
+        "Satzart 0221 130": 138
+      },
+      "Glas": {
+        "Satzart 0211 110": 141,
+        "Satzart 0221 110": 144
+      },
+      "VGV": {
+        "Satzart 0211 140": 147,
+        "Satzart 0221 140": 150
+      },
+      "Rechtschutz": {
+        "Satzart 0221 070": 153
+      },
+      "Feuer-Industrie/Gewerbliche Sachversicherung": {
+        "Satzart 0211": 156,
+        "Satzart 0221": 159
+      },
+      "VSV": {
+        "Satzart 0221 510": 162
+      },
+      "Technische Versicherungen": {
+        "Satzart 0211": 165,
+        "Satzart 0221": 168
+      },
+      "Transport": {
+        "Satzart 0211": 171,
+        "Satzart 0221": 174,
+        "Satzart 0251 Einzelanmeldung": 177
+      },
+      "Nicht einzeln definierte Sparten": {
+        "Satzart 0211": 180,
+        "Satzart 0221": 183
+      },
+      "Investmentfonds": {
+        "Satzart 0210 550": 186,
+        "Satzart 0220 550": 189,
+        "Satzart 0270 550": 192,
+        "Satzart 0280 550": 195,
+        "Satzart 0291 550": 198,
+        "Satzart 0292 550": 201,
+        "Satzart 0293 550": 204,
+        "Satzart 0294 550": 207,
+        "Satzart 0295 550": 210
+      },
+      "Geschäftsvorfall - Vorsatz": {
+        "Satzart 0052": 213
+      },
+      "Adresssatz": {
+        "Satzart 0102": 216
+      },
+      "Allgemeiner Vertragsteil - Antrag": {
+        "Satzart 0212": 219
+      },
+      "Vorläufige Deckung": {
+        "Satzart 0352": 222
+      },
+      "Vorversicherung": {
+        "Satzart 0362": 225
+      },
+      "Beitrag - Versicherungsteuer": {
+        "Satzart 0382": 228
+      },
+      "Textnachricht/Datei": {
+        "Satzart 9950": 231
+      },
+      "Geschäftsvorfall - Nachsatz": {
+        "Satzart 9952": 234
+      },
+      "Bausparen": {
+        "Satzart 0210 580": 237,
+        "Satzart 0220 580": 240
+      },
+      "Antrag/Tarifierungsmerkmale": {
+        "Produktspezifische Antragsdaten 0372": 243,
+        "Produktspezifische Stammdaten 0600": 246
+      },
+      "Satzende": 257
+    },
+    "3": {
+      "Satzanfang": {
+        "Satzart": 5,
+        "VU-Nummer": 10,
+        "Absender": 40,
+        "Adressat": 70,
+        "Erstellungs-Datum, Zeitraum vom, Zeitraum bis": 86,
+        "Geschäftsstelle / Vermittler": 96
+      },
+      "eVB-Nummer": {
+        "eVB-Nummer 0392": 99
+      },
+      "Fondsdatensatz - Leben": {
+        "Fondsdatensatz - Leben 0230": 102
+      },
+      "Allgemeine Antragsdaten": {
+        "Allgemeine Antragsdaten 0202": 105
+      },
+      "Unfall": {
+        "Unfallspezifische Antragsdaten 0222": 108,
+        "Unfall Leistungsarten 0230": 111
+      },
+      "Rabatte und Zuschläge": {
+        "Rabatte und Zuschläge 0390": 114
+      },
+      "Begleitdokumente und Signaturen": {
+        "Begleitdokumente und Signaturen 0342": 117
+      },
+      "MIME-Datei": {
+        "MIME-Datei 9951": 120
+      },
+      "Kapitalanlage": {
+        "Satzart 0210 560": 123,
+        "Satzart 0220 560": 126
+      },
+      "Baufinanzierung": {
+        "Satzart 0210 570": 129,
+        "Satzart 0220 570": 132
+      },
+      "Tierkranken": {
+        "Satzart 0210 684": 135,
+        "Satzart 0220 684": 138
+      },
+      "KFZ - Wechselkennzeichen W-AKZ": {
+        "KFZ - Wechselkennzeichen W-AKZ": 141
+      },
+      "Verbundene Gebäude - Versicherte Sachen und Kosten": {
+        "Verbundene Gebäude - Versicherte Sachen und Kosten": 144
+      },
+      "Leben/Rente-Leistungsarten": {
+        "Leben/Rente-Leistungsarten": 147
+      },
+      "Satzende": 257
+    }
+  },
+  "Bestandsdaten oder Produktinfo Investment": {
+    "Vertrag": [
+      {
+        "Partner": [
+          {
+            "0100": {
+              "1": {
+                "Satzanfang": {
+                  "Satzart": 5,
+                  "VU-Nummer": 10,
+                  "Bündelungskennzeichen": 11,
+                  "Sparte": 14,
+                  "Versicherungsschein-Nummer": 31,
+                  "Folgenummer": 33,
+                  "Geschäftsstelle / Vermittler": 43
+                },
+                "Anredeschlüssel": 44,
+                "Name 1": 74,
+                "Name 2": 104,
+                "Name 3": 134,
+                "Titel": 154,
+                "Länderkennzeichen": 157,
+                "Postleitzahl": 163,
+                "Ort": 188,
+                "Straße": 218,
+                "Postfach": 226,
+                "Geburtsdatum": 234,
+                "Staatsangehörigkeit": 237,
+                "Adresskennzeichen": 239,
+                "Aktenzeichen des Sicherungsgläubigers": 251,
+                "Zielgruppenschlüssel": 253,
+                "Aufsichtsfreier Versicherungsnehmer (Großrisiken)": 254,
+                "postalisches Kennzeichen": 255,
+                "Geschlecht": 256,
+                "Satzende": 257
+              }
+            },
+            "0342": [],
+            "0350": [],
+            "0390": []
+          }
+        ],
+        "0200": {
+          "1": {
+            "Satzanfang": {
+              "Satzart": 5,
+              "VU-Nummer": 10,
+              "Bündelungskennzeichen": 11,
+              "Sparte": 14,
+              "Versicherungsschein-Nummer": 31,
+              "Folgenummer": 33,
+              "Geschäftsstelle / Vermittler": 43
+            },
+            "Inkassoart": 44,
+            "Vertragsbeginn": 52,
+            "Vertragsablauf": 60,
+            "Hauptfälligkeit": 68,
+            "Zahlungsweise": 69,
+            "Vertragsstatus": 70,
+            "Abgangsgrund": 72,
+            "Abgangsdatum": 80,
+            "Änderungsgrund": 90,
+            "Änderungsdatum": 98,
+            "A, F, B": 99,
+            "Anteil in %": 104,
+            "Auftrags-Nr. des Vermittlers": 113,
+            "Währungsschlüssel": 116,
+            "Gesamtbeitrag (Netto) in Währungseinheiten": 128,
+            "Mehrzweckfeld": 158,
+            "Kennzeichen Vers.-Steuer frei": 159,
+            "Personen-/Kundennummer des Versicherers": 176,
+            "Personen-/Kundennummer des Vermittlers": 193,
+            "Aufsichtsfreier Vertrag": 194,
+            "Aufteilung Versicherungsteuer gemäß EG-Richtlinien": 195,
+            "Restlaufzeit des Vertrages": 197,
+            "Laufzeitrabatt in %": 201,
+            "Antragsdatum": 209,
+            "Referenz-Versicherungsscheinnummer": 226,
+            "Spezifikation der Referenz-Versicherungsscheinnummer": 227,
+            "Ordnungsbegriff": 244,
+            "Währung der Dokumente für VN": 247,
+            "Erweiterungssatz vorhanden": 248,
+            "Einzahlung / Ausschüttung": 249,
+            "Satzende": 257
+          }
+        },
+        "0342": [],
+        "0350": [],
+        "0390": [],
+        "Sparte": [
+          {
+            "Leben 010": {
+              "0210": "",
+              "0211": "",
+              "0350": [],
+              "0390": [],
+              "Versicherte Person": [
+                {
+                  "0220": {
+                    "1": {
+                      "Satzanfang": {
+                        "Satzart": 5,
+                        "VU-Nummer": 10,
+                        "Bündelungskennzeichen": 11,
+                        "Sparte": 14,
+                        "Versicherungsschein-Nummer": 31,
+                        "Folgenummer": 33,
+                        "Geschäftsstelle / Vermittler": 43
+                      },
+                      "KH-Beginn": 51,
+                      "KH-Ausschluß": 59,
+                      "KH-Änderungsdatum": 67,
+                      "KH-Tarifgruppe": 71,
+                      "KH Deckungsart": 73,
+                      "KH-Deckungssummen": 100,
+                      "KH-RGJ": 102,
+                      "KH-SF/S-Klasse": 107,
+                      "KH-Beitragssätze": 110,
+                      "KH-Beitrag in Währungseinheiten": 118,
+                      "KH-Zuschläge in %": 123,
+                      "KH-Abschläge in %": 128,
+                      "KH-Zuschläge in Währungseinheiten": 134,
+                      "KH-Abschläge in Währungseinheiten": 140,
+                      "Flottenrabatt in %": 143,
+                      "Gültige AKB": 147,
+                      "Provision": 151,
+                      "KH-Schäden aus Rückstufung": 153,
+                      "Kennzeichen für abweichende Provision": 154,
+                      "Tarifbeitrag 100 % für Kraftfahrt-Haftpflicht in Währungseinheiten": 162,
+                      "Schutzbrief /Verkehrsservice": 163,
+                      "Referenznummer": 170,
+                      "Frei vereinbarte Selbstbeteiligung in Währungseinheiten für KH": 180,
+                      "Tyklasse KH": 183,
+                      "Tarif": 193,
+                      "Lfd. Nummer": 197,
+                      "Personennummer / lfd. Nummer": 214,
+                      "Satzende": 257
+                    }
+                  },
+                  "0350": [],
+                  "0390": [],
+                  "Spartenspezifischer Teil": {
+                    "Kapitallebens-/Risikovers. - Wagnisart 1 / 3": [
+                      {
+                        "0220": "",
+                        "0221": {
+                          "1": {
+                            "Satzanfang": {
+                              "Satzart": 5,
+                              "VU-Nummer": 10,
+                              "Bündelungskennzeichen": 11,
+                              "Sparte": 14,
+                              "Versicherungsschein-Nummer": 31,
+                              "Folgenummer": 33,
+                              "Geschäftsstelle / Vermittler": 43
+                            },
+                            "KH-Deckungssummen in Währungseinheiten": 85,
+                            "KH-Beitrag in Währungseinheiten": 97,
+                            "KH-Zuschläge in Währungseinheiten": 109,
+                            "KH-Abschläge in Währungseinheiten": 121,
+                            "Tarifbeitrag 100 % für Kraftfahrt-Haftpflicht in Währungseinheiten": 133,
+                            "Frei vereinbarte Selbstbeteiligung in Währungseinheiten für KH": 145,
+                            "Referenznummer": 152,
+                            "Lfd. Nummer": 156,
+                            "Personennummer / lfd. Nummer": 173,
+                            "Satzende": 257
+                          }
+                        },
+                        "0225": [],
+                        "0350": [],
+                        "0390": []
+                      }
+                    ],
+                    "Berufsunfähigkeit - Wagnisart 4 / 8": [
+                      {
+                        "0220": "",
+                        "0221": "",
+                        "0225": [],
+                        "0350": [],
+                        "0390": []
+                      }
+                    ],
+                    "Unfall - Wagnisart 6": [
+                      {
+                        "0220": "",
+                        "0221": "",
+                        "0225": [],
+                        "0350": [],
+                        "0390": []
+                      }
+                    ],
+                    "Risikozusatz - Wagnisart 5": [
+                      {
+                        "0220": "",
+                        "0221": "",
+                        "0225": [],
+                        "0350": [],
+                        "0390": []
+                      }
+                    ],
+                    "Rentenversicherung -  Wagnisart 2": [
+                      {
+                        "0220": "",
+                        "0221": "",
+                        "0225": [],
+                        "0350": [],
+                        "0390": []
+                      }
+                    ],
+                    "Kapital-/Fondsgebundene LV - Wagnisart 7": [
+                      {
+                        "0220": "",
+                        "0221": "",
+                        "0225": [],
+                        "0230": [],
+                        "0350": [],
+                        "0390": []
+                      }
+                    ],
+                    "Fondsgebundene Rentenversicherung - Wagnisart 9": [
+                      {
+                        "0220": "",
+                        "0225": [],
+                        "0230": [],
+                        "0350": [],
+                        "0390": []
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>3.3.0</version>
+        <relativePath/> <!-- lookup parent from repository -->
+    </parent>
+    <groupId>org.marko</groupId>
+    <artifactId>gdv</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>gdv-json-transform</name>
+    <description>gdv-json-transform</description>
+    <url/>
+    <properties>
+        <java.version>17</java.version>
+    </properties>
+    <dependencies>
+        <dependency>
+            <groupId>com.fasterxml.jackson.core</groupId>
+            <artifactId>jackson-core</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.fasterxml.jackson.core</groupId>
+            <artifactId>jackson-databind</artifactId>
+            <version>2.14.3</version>
+        </dependency>
+        <dependency>
+            <groupId>com.fasterxml.jackson.core</groupId>
+            <artifactId>jackson-annotations</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <optional>true</optional>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-log4j2</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.google.code.gson</groupId>
+            <artifactId>gson</artifactId>
+            <version>2.8.9</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.apache.camel/camel-jolt -->
+        <dependency>
+            <groupId>org.apache.camel</groupId>
+            <artifactId>camel-jolt</artifactId>
+            <version>4.7.0</version>
+        </dependency>
+
+<!--        &lt;!&ndash; https://mvnrepository.com/artifact/com.bazaarvoice.jolt/json-utils &ndash;&gt;-->
+<!--        <dependency>-->
+<!--            <groupId>com.bazaarvoice.jolt</groupId>-->
+<!--            <artifactId>json-utils</artifactId>-->
+<!--            <version>0.1.8</version>-->
+<!--        </dependency>-->
+<!--        &lt;!&ndash; https://mvnrepository.com/artifact/com.bazaarvoice.jolt/jolt-core &ndash;&gt;-->
+<!--        <dependency>-->
+<!--            <groupId>com.bazaarvoice.jolt</groupId>-->
+<!--            <artifactId>jolt-core</artifactId>-->
+<!--            <version>0.1.8</version>-->
+<!--        </dependency>-->
+<!--        &lt;!&ndash; https://mvnrepository.com/artifact/com.bazaarvoice.jolt/jolt-parent &ndash;&gt;-->
+<!--        <dependency>-->
+<!--            <groupId>com.bazaarvoice.jolt</groupId>-->
+<!--            <artifactId>jolt-parent</artifactId>-->
+<!--            <version>0.1.8</version>-->
+<!--            <type>pom</type>-->
+<!--        </dependency>-->
+        <!-- https://mvnrepository.com/artifact/org.json/json -->
+        <dependency>
+            <groupId>org.json</groupId>
+            <artifactId>json</artifactId>
+            <version>20240303</version>
+        </dependency>
+
+
+
+    </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+                <configuration>
+                    <mainClass>marko.gdv.transform.Main</mainClass> <!-- Main class -->
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
+</project>
